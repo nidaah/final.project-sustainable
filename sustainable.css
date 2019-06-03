@@ -1,0 +1,15 @@
+.brandname{
+  float: left;
+}
+
+.category{
+  text-align: center;
+}
+
+.price{
+  float: right;
+}
+
+table{
+  border: 5px solid black;
+}
